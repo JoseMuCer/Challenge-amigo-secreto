@@ -22,8 +22,8 @@ El usuario deberá agregar nombres mediante un campo de texto y un botón "Adici
 ![imagen](https://github.com/user-attachments/assets/15858667-9c8d-4a54-8fd4-6a5b5ef4f356)
 
 ## Uso del proyecto
-+ Para usar el proyecto de manera local es necesario tener todos los archivos de forma local en una sola carpeta, y en un acarpeta dentro del proyecto llamada "assets"
-+ Para usarlo mediante Github pages puedes entrar al siguiente link: https://josemucer.github.io/Challenge-amigo-secreto/
++ Para usar el proyecto de manera local es necesario tener todos los archivos de forma local en una sola carpeta, y en un acarpeta dentro del proyecto llamada "assets".
++ Para usarlo mediante Github pages puedes entrar al siguiente link: https://josemucer.github.io/Challenge-amigo-secreto/ 
 
 ## Tecnologías utilizadas
 - JavaScript
